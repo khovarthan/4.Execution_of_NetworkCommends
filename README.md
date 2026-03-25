@@ -26,7 +26,9 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 ## Program
+
 server.py
+
 ```
 import socket
 from pythonping import ping
@@ -67,9 +69,10 @@ while True:
 
 s.close()
 ```
+
 ## Output
 
-<img width="1108" height="312" alt="image" src="https://github.com/user-attachments/assets/927d48f2-0acb-4698-8602-692b2ddd8aac" />
+<img width="1108" height="312" alt="image" src="https://github.com/user-attachments/assets/0b8649de-ec88-45e8-9820-e3c72e7776f0" />
 
 ## Result
 Thus Execution of Network commands Performed 
